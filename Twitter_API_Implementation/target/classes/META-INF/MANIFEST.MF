@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Built-By: cherry
+Build-Jdk: 1.6.0_15
+Specification-Title: twitter4j-examples
+Specification-Version: 4.0.3-SNAPSHOT
+Implementation-Title: twitter4j-examples
+Implementation-Version: 4.0.3-SNAPSHOT
+Implementation-Vendor-Id: org.twitter4j
+Created-By: Maven Integration for Eclipse
+Bundle-Vendor: Yusuke Yamamoto
+Main-Class: twitter4j.examples.ExamplesVersion
+
